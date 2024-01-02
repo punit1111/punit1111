@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://khuza1ma.io)
+![github-gif-one](https://github.com/punit1111/punit1111/assets/128232942/8e9b85ed-af14-4c34-8261-54f3aa79de66)[![MasterHead](https://github.com/punit1111/punit1111/blob/main/github-gif-banner.gif)]
 <h1 align="center">Hi 👋, I'm Punit Patel</h1>
 <h3 align="center">A highly skilled and passionate App developer from India, renowned for creating innovative and user-friendly applications that seamlessly blend cutting-edge technology with user-centric design, making a significant impact in the tech community</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khuza1ma&label=Profile%20views&color=0e75b6&style=flat" alt="khuza1ma" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/punit1111/punit1111/blob/main/github-gif-one.gif">
+<p align="left"> <img src="https://github.com/punit1111" alt="punit" /> </p>
 
 - 🌱 I am enthusiastically dedicating myself to mastering **Flutter**, a versatile and powerful framework to create dynamic, cross-platform applications
 
